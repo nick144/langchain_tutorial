@@ -9,3 +9,4 @@ wheels/
 # Virtual environments
 .venv
 .env
+CH-3\sales_db\sales.db
